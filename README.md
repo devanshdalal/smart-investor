@@ -1,3 +1,7 @@
+## Inteligent Systematic Investments.
+
+Evaluations of Manoj Kumar Jain's [Fixed-Fixed-Double Strategies](https://www.youtube.com/watch?v=kcHLgN8jUZ8)
+
 ```python
 import glob
 import pandas as pd
