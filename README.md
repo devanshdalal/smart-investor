@@ -302,7 +302,7 @@ nifty[["52 week high", "52 week low", "Close"]].plot()
 
 
 
-![png](output_9_1.png)
+![png](output_7_1.png)
 
 
 
