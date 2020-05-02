@@ -939,7 +939,7 @@ EvaluateStrategy(nifty, params)
 
     11.413761644520301
 
-
+```python
 from scipy import optimize
 
 def f(z, *params):
@@ -955,3 +955,4 @@ def f(z, *params):
 rranges = ((0.0, 1.0), (12, 20), (22, 30), slice(2, 12), slice(2, 12))
 resbrute = optimize.brute(f, rranges, args=None, full_output=True,
                               finish=optimize.fmin)
+```
